@@ -20,7 +20,7 @@
                 }
      }
           
-- 🌱 I’m currently learning {
+	-      🌱 I’m currently learning {
 -           Computer-Science;
 -           Cyber-Security;
 -           Business;
