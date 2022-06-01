@@ -2,23 +2,23 @@
 
 
 -       👀 I’m interested in {     
-            if (Your-Search about primery interests){
-                   Engineering;
-                   Programming;
-                   Operating system theoritical;
-                   Different O.S.;
-                   Networking;
-                   CyberSecurity;
-      }
-            else {
-                   Human-Resources;
-                   People-Analytics;
-                   Business-Development;
-                   Business;
-                   Training;
-                   Researching-and-Writing;
-      }
-}
+                if (Your-Search about primery interests){
+                       Engineering;
+                         Programming;
+                         Operating system theoritical;
+                         Different O.S.;
+                         Networking;
+                         CyberSecurity;
+                }
+                else {
+                        Human-Resources;
+                        People-Analytics;
+                        Business-Development;
+                        Business;
+                        Training;
+                        Researching-and-Writing;
+                }
+     }
           
 - 🌱 I’m currently learning {
 -           Computer-Science;
