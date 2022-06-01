@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mohamed-Elsayd
 
-- 👀 I’m interested in {
--           if (Your-Search about primery interests){
+
+-      👀 I’m interested in {     
+            if (Your-Search about primery interests){
                    Engineering;
                    Programming;
                    Operating system theoritical;
@@ -9,7 +10,7 @@
                    Networking;
                    CyberSecurity;
               }
--           else {
+            else {
                    Human-Resources;
                    People-Analytics;
                    Business-Development;
@@ -17,7 +18,7 @@
                    Training;
                    Researching-and-Writing;
             }
-- }
+  }
           
 - 🌱 I’m currently learning {
 -           Computer-Science;
