@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in {
 -           if (Your-Search about primery interests){
--               Engineering;
+              Engineering;
 -               Programming;
 -               Operating system theoritical;
 -               Different O.S.;
