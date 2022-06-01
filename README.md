@@ -19,10 +19,10 @@
      }
           
       -      🌱 I’m currently learning {
-	       	    Computer-Science;
-      		    Cyber-Security;
-     		    Business;
-		 }
+	       	           Computer-Science;
+      		          Cyber-Security;
+     		          Business;
+		    }
 
 - 💞️ I’m looking to collaborate on {
 -           Projects-in-my-interests;
