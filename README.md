@@ -6,33 +6,28 @@
                          Operating system theoritical;
                          Different O.S.;
                          Networking;
-                         CyberSecurity;
-                }
+                         CyberSecurity;}
                 else {
                         Human-Resources;
                         People-Analytics;
                         Business-Development;
                         Business;
                         Training;
-                        Researching-and-Writing;
-                        }}
+                        Researching-and-Writing;}}
       
 -      🌱 I’m currently learning {
-	       	  Computer-Science;
-      		  Cyber-Security;
-                  Business;
-	          }
+Computer-Science;
+Cyber-Security;
+Business;}
 
 -	💞️ I’m looking to collaborate on {
--          Projects-in-my-interests;
--          Business;
-- 	 }
+               Projects-in-my-interests;
+   	       Business;}
 
-- 📫 How to reach me {
--           Gmail: i.hrm.ms@gmail.com;
--           LinkedIn: https://www.linkedin.com/in/netmohamedelsayedgabr/ ;
--           WhatsApp: 01000669139;
-- }
+- 	📫 How to reach me {
+       		    Gmail: i.hrm.ms@gmail.com;
+           	    LinkedIn: https://www.linkedin.com/in/netmohamedelsayedgabr/ ;
+           	    WhatsApp: 01000669139;}
 
 <!---
 Mohamed-Elsayd/Mohamed-Elsayd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
