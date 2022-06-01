@@ -15,19 +15,18 @@
                         Business;
                         Training;
                         Researching-and-Writing;
-                }
-     }
+                        }}
           
       -      🌱 I’m currently learning {
-	       	           Computer-Science;
-      		          Cyber-Security;
-     		          Business;
-		    }
+	       	             Computer-Science;
+      		     	     Cyber-Security;
+     		             Business;
+		             }
 
-- 💞️ I’m looking to collaborate on {
--           Projects-in-my-interests;
--           Business;
-- }
+-	 💞️ I’m looking to collaborate on {
+-          	 Projects-in-my-interests;
+-         	 Business;
+- 		 }
 
 - 📫 How to reach me {
 -           Gmail: i.hrm.ms@gmail.com;
