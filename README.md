@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Mohamed-Elsayd
-
-
 -       👀 I’m interested in {     
                 if (Your-Search about primery interests){
                        Engineering;
@@ -20,11 +18,11 @@
                 }
      }
           
-	-      🌱 I’m currently learning {
--           Computer-Science;
--           Cyber-Security;
--           Business;
-- }
+      -      🌱 I’m currently learning {
+	       	    Computer-Science;
+      		    Cyber-Security;
+     		    Business;
+		 }
 
 - 💞️ I’m looking to collaborate on {
 -           Projects-in-my-interests;
