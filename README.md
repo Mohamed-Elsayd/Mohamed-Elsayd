@@ -25,7 +25,7 @@
    	                    Business;}
 
 -     	📫 How to reach me {
-                        Gmail: i.hrm.ms@gmail.com;
+                          Gmail: i.hrm.ms@gmail.com;
            	            LinkedIn: https://www.linkedin.com/in/netmohamedelsayedgabr/;
            	            WhatsApp: 01000669139;}
 
