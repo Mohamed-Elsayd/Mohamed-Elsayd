@@ -1,14 +1,13 @@
                                                 - 👋 Hi, I’m @Mohamed-Elsayd
 -       👀 I’m interested in {     
                 if (Your-Search about Engineering interests){
-                       Engineering;
-                       Computer-Scinece;
+                        Engineering;
+                        Computer-Scinece;
                          Programming;
                          Operating-systems;
                          Networking;
                          CyberSecurity;}
                 else {
-                
                         Human-Resources;
                         People-Analytics;
                         Business-Development;
